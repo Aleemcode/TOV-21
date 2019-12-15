@@ -344,7 +344,9 @@ ul.cart-list>li.total>.btn {
 }
 
 .bg-features-content {
-	background-image: url(../images/granite4.jpg);
+	background-image: url(../images/granite-bg3.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
 	box-shadow:inset 0 0 0 1000px rgba(77, 23, 1, 0.671);
 	padding-top: 45px;
 	padding-bottom: 30px;
@@ -744,7 +746,7 @@ ul.cart-list>li.total>.btn {
 }
 
 .testi-bg {
-	background-image: url(../images/granite5.jpg);
+	background-image: url(../images/pure-granite.png);
 	box-shadow:inset 0 0 0 2000px rgba(39, 12, 1, 0.671);
 	background-attachment: fixed;
 	background-size: cover;
